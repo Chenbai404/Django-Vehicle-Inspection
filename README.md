@@ -40,14 +40,35 @@
 - 自定义菜单创建
 - 内外部链接管理
 
-## 安装部署
+## 结果展示
+#####  **首页信息展示**
+  
+<img width="1262" height="565" alt="image" src="https://github.com/user-attachments/assets/7b37fe92-c149-4841-a31f-44e8497efeb8" />  
+<img width="1249" height="569" alt="image" src="https://github.com/user-attachments/assets/2427c93b-efc9-44fb-a97e-ace8d604fd4f" />  
+<img width="1250" height="568" alt="image" src="https://github.com/user-attachments/assets/c00da9c8-0d33-4a62-ad54-b9392c136bef" />  
+  
+#####  **其余页面展示**  
+  
+<img width="1246" height="508" alt="image" src="https://github.com/user-attachments/assets/5e1d8b30-3e07-45ff-8ba5-8551a663f0e2" />
+  
 
-### 环境要求
-- Python 3.9+
-- 虚拟环境
+##### **实时识别功能展示**
+<img width="1247" height="504" alt="image" src="https://github.com/user-attachments/assets/209ce50a-6a2b-460b-b9ce-c2cbae149e08" />
+  
+**点击运行后**  
+<img width="500" height="442" alt="image" src="https://github.com/user-attachments/assets/93351029-8766-4a1e-8bba-991d962976f2" />
+  
+  
+##### **图片识别功能展示**  
+<img width="1261" height="563" alt="image" src="https://github.com/user-attachments/assets/e74ea0a5-5354-485a-83bd-eb4285907faa" />  
+    
+**点击运行后**  
+<img width="1248" height="560" alt="image" src="https://github.com/user-attachments/assets/d58b37cb-3c0c-4e54-bef1-49d08ae2d72c" />
 
-### 安装步骤
-1. 克隆项目
-```bash
-git clone <repository-url>
+
+
+
+
+
+
 
